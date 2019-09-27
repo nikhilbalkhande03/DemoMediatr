@@ -1,0 +1,14 @@
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\bin\Debug\netcoreapp2.2\DemoMediaR.deps.json
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\bin\Debug\netcoreapp2.2\DemoMediaR.runtimeconfig.json
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\bin\Debug\netcoreapp2.2\DemoMediaR.runtimeconfig.dev.json
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\bin\Debug\netcoreapp2.2\DemoMediaR.dll
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\bin\Debug\netcoreapp2.2\DemoMediaR.pdb
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.csprojAssemblyReference.cache
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.RazorAssemblyInfo.cache
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.RazorAssemblyInfo.cs
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.AssemblyInfoInputs.cache
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.AssemblyInfo.cs
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.RazorTargetAssemblyInfo.cache
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.dll
+C:\Users\Nikhil1\Source\Repos\DemoMediaR\DemoMediaR\obj\Debug\netcoreapp2.2\DemoMediaR.pdb
